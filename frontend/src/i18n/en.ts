@@ -25,6 +25,8 @@ const en = {
 	beneficiaryAddress: 'Beneficiary address',
 	thisFieldCannotBeBlank: 'This field cannot be blank',
 	test: 'test',
+	login: 'Login',
+	labscoin: 'Labs Coin',
 	'': '',
 };
 
